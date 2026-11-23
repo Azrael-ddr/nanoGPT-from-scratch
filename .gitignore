@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 训练产物（可运行 phase4_gpt.py 重新生成）
+mini_gpt.pt
+*.pt
+
+# 输出目录
+out-*/
